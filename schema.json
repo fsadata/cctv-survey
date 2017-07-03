@@ -1,0 +1,76 @@
+{
+	"fields": [
+		{
+			"name": "Country",
+			"title": "Country",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "RedMeatOrPoultry",
+			"title": "RedMeatOrPoultry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "NumberSurveyed",
+			"title": "NumberSurveyed",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "HasCCTV",
+			"title": "HasCCTV",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "InUnloading",
+			"title": "InUnloading",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "InLairage",
+			"title": "InLairage",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "InRaceAndRestraint",
+			"title": "InRaceAndRestraint",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "InStun",
+			"title": "InStun",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "InBleed",
+			"title": "InBleed",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		}
+	]
+}

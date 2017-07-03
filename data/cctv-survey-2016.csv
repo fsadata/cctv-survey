@@ -1,0 +1,5 @@
+Country,RedMeatOrPoultry,NumberSurveyed,HasCCTV,InUnloading,InLairage,InRaceAndRestraint,InStun,InBleed
+England,Poultry,73,50,41,39,31,28,38
+England,Red,181,89,74,72,62,68,59
+Wales,Poultry,7,4,3,3,4,3,3
+Wales,Red,20,9,8,5,5,6,5
